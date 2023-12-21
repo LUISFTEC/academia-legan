@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/academia-legan/static/css/main.f4dbfabd.css",
-    "main.js": "/academia-legan/static/js/main.0fbffad4.js",
+    "main.css": "/academia-legan/static/css/main.21911c8d.css",
+    "main.js": "/academia-legan/static/js/main.bb447a49.js",
     "static/js/496.e80083c7.chunk.js": "/academia-legan/static/js/496.e80083c7.chunk.js",
     "static/media/10.png": "/academia-legan/static/media/10.cdea93c53a7f2d0cd7c3.png",
     "static/media/7.png": "/academia-legan/static/media/7.d31a6f17a3e1d52b21c5.png",
@@ -27,12 +27,12 @@
     "static/media/slick.ttf": "/academia-legan/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/academia-legan/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/academia-legan/index.html",
-    "main.f4dbfabd.css.map": "/academia-legan/static/css/main.f4dbfabd.css.map",
-    "main.0fbffad4.js.map": "/academia-legan/static/js/main.0fbffad4.js.map",
+    "main.21911c8d.css.map": "/academia-legan/static/css/main.21911c8d.css.map",
+    "main.bb447a49.js.map": "/academia-legan/static/js/main.bb447a49.js.map",
     "496.e80083c7.chunk.js.map": "/academia-legan/static/js/496.e80083c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4dbfabd.css",
-    "static/js/main.0fbffad4.js"
+    "static/css/main.21911c8d.css",
+    "static/js/main.bb447a49.js"
   ]
 }
