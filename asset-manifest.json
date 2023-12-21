@@ -1,22 +1,38 @@
 {
   "files": {
     "main.css": "/academia-legan/static/css/main.f4dbfabd.css",
-    "main.js": "/academia-legan/static/js/main.d5358823.js",
-    "static/js/496.9c2fd52a.chunk.js": "/academia-legan/static/js/496.9c2fd52a.chunk.js",
+    "main.js": "/academia-legan/static/js/main.0fbffad4.js",
+    "static/js/496.e80083c7.chunk.js": "/academia-legan/static/js/496.e80083c7.chunk.js",
+    "static/media/10.png": "/academia-legan/static/media/10.cdea93c53a7f2d0cd7c3.png",
+    "static/media/7.png": "/academia-legan/static/media/7.d31a6f17a3e1d52b21c5.png",
+    "static/media/8.png": "/academia-legan/static/media/8.7ceb791184726efd03ba.png",
+    "static/media/4.png": "/academia-legan/static/media/4.52c24ea8e50d073616ae.png",
+    "static/media/1.png": "/academia-legan/static/media/1.c2ca0cf8a702fd9dfbca.png",
+    "static/media/9.png": "/academia-legan/static/media/9.f7e4cdc8fa971f317f3f.png",
+    "static/media/5.png": "/academia-legan/static/media/5.211208ebc1b35964d158.png",
+    "static/media/3.png": "/academia-legan/static/media/3.2c7edf8e45323c3c4081.png",
+    "static/media/2.png": "/academia-legan/static/media/2.0f5171fc453bf86baf19.png",
+    "static/media/fonfomar.jpg": "/academia-legan/static/media/fonfomar.f0622bd10e913dc6c495.jpg",
+    "static/media/verticlfoto.jpg": "/academia-legan/static/media/verticlfoto.5996a3a7b42f691549aa.jpg",
+    "static/media/perfildenis.jpg": "/academia-legan/static/media/perfildenis.c5456fdb66e19e8503d5.jpg",
     "static/media/fondounidos.jpg": "/academia-legan/static/media/fondounidos.b0c53f11f359c981d319.jpg",
+    "static/media/laptop.jpg": "/academia-legan/static/media/laptop.d3c428e2d20e67fe798c.jpg",
+    "static/media/perfiljorge.jpg": "/academia-legan/static/media/perfiljorge.5e3992cf3d91e37254e5.jpg",
+    "static/media/6.png": "/academia-legan/static/media/6.d789f1fc89dfe307b916.png",
     "static/media/vertical.png": "/academia-legan/static/media/vertical.5a1c463d2e7d5e448066.png",
     "static/media/horisontal.png": "/academia-legan/static/media/horisontal.b2f71cc34a820d6622d3.png",
+    "static/media/perfillaptop.jpg": "/academia-legan/static/media/perfillaptop.f1ad8141b1f5efb512f6.jpg",
     "static/media/slick.svg": "/academia-legan/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/academia-legan/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/academia-legan/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/academia-legan/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/academia-legan/index.html",
     "main.f4dbfabd.css.map": "/academia-legan/static/css/main.f4dbfabd.css.map",
-    "main.d5358823.js.map": "/academia-legan/static/js/main.d5358823.js.map",
-    "496.9c2fd52a.chunk.js.map": "/academia-legan/static/js/496.9c2fd52a.chunk.js.map"
+    "main.0fbffad4.js.map": "/academia-legan/static/js/main.0fbffad4.js.map",
+    "496.e80083c7.chunk.js.map": "/academia-legan/static/js/496.e80083c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4dbfabd.css",
-    "static/js/main.d5358823.js"
+    "static/js/main.0fbffad4.js"
   ]
 }
