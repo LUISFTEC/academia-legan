@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/academia-legan/static/css/main.b7f5a307.css",
-    "main.js": "/academia-legan/static/js/main.2aa0a2f7.js",
+    "main.css": "/academia-legan/static/css/main.26200938.css",
+    "main.js": "/academia-legan/static/js/main.e9828c1f.js",
     "static/js/496.e80083c7.chunk.js": "/academia-legan/static/js/496.e80083c7.chunk.js",
     "static/media/DiseñadorWeb.png": "/academia-legan/static/media/DiseñadorWeb.8a3221144780198e8711.png",
     "static/media/Trader.png": "/academia-legan/static/media/Trader.35220745af7ad2403aa9.png",
@@ -33,12 +33,12 @@
     "static/media/slick.ttf": "/academia-legan/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/academia-legan/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/academia-legan/index.html",
-    "main.b7f5a307.css.map": "/academia-legan/static/css/main.b7f5a307.css.map",
-    "main.2aa0a2f7.js.map": "/academia-legan/static/js/main.2aa0a2f7.js.map",
+    "main.26200938.css.map": "/academia-legan/static/css/main.26200938.css.map",
+    "main.e9828c1f.js.map": "/academia-legan/static/js/main.e9828c1f.js.map",
     "496.e80083c7.chunk.js.map": "/academia-legan/static/js/496.e80083c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7f5a307.css",
-    "static/js/main.2aa0a2f7.js"
+    "static/css/main.26200938.css",
+    "static/js/main.e9828c1f.js"
   ]
 }
