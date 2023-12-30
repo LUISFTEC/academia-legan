@@ -28,12 +28,15 @@
     -->
     <title>Academia Legan</title>
     <script>
-        sessionStorage.redirect = location.href;
-        var pathSegmentsToKeep = 1;  // Cambia este número si tu URL tiene segmentos adicionales
-        var l = window.location;
-        var newPath = '/' + l.pathname.split('/').slice(pathSegmentsToKeep + 1).join('/');
-        window.history.replaceState(null, null, newPath + l.search + l.hash);
-      </script>
+      document.addEventListener('DOMContentLoaded', () => {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== window.location.href) {
+          window.history.replaceState(null, null, redirect);
+        }
+      });
+    </script>
+    
       
   </head>
   <body>
