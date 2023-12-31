@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/academia-legan/static/css/main.26200938.css",
-    "main.js": "/academia-legan/static/js/main.06f346ec.js",
+    "main.js": "/academia-legan/static/js/main.826d5b46.js",
     "static/js/496.e80083c7.chunk.js": "/academia-legan/static/js/496.e80083c7.chunk.js",
     "static/media/DiseñadorWeb.png": "/academia-legan/static/media/DiseñadorWeb.8a3221144780198e8711.png",
     "static/media/Trader.png": "/academia-legan/static/media/Trader.35220745af7ad2403aa9.png",
@@ -34,11 +34,11 @@
     "static/media/slick.woff": "/academia-legan/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/academia-legan/index.html",
     "main.26200938.css.map": "/academia-legan/static/css/main.26200938.css.map",
-    "main.06f346ec.js.map": "/academia-legan/static/js/main.06f346ec.js.map",
+    "main.826d5b46.js.map": "/academia-legan/static/js/main.826d5b46.js.map",
     "496.e80083c7.chunk.js.map": "/academia-legan/static/js/496.e80083c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26200938.css",
-    "static/js/main.06f346ec.js"
+    "static/js/main.826d5b46.js"
   ]
 }
